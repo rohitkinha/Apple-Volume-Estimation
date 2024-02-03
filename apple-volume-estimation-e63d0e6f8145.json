@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "apple-volume-estimation",
+  "private_key_id": "e63d0e6f81451ef48fce8f73ec003ada18d2193e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDAuh5kL5IhhHwG\nljD4Zo+VRQhJc6lV9k++XcYlA47n9Zf+VqVhRMZLEauplwoMPIH/OQhPNyvl16g6\nvA4oUobwAxHnL+b6dhnABWqnqzKaTKLwiGiXrDIK8GtCCqiV8JMF+avfeqNdb/+M\n5D5J6Cy0kTNZfwcVvpsT9adzyCfO5F77dCCirO6CgexDG4EiKC1w7Ybwp+GHnG4Q\ngx3XCR1CKDswHtN+I24Qo5tWR6usCUU6Y1Rky9VhNOJ1xjgc9/ULhpkuLP/9Se6C\nKLWny5/mW/62KHyAfh0V3ESn2X1YwHzRjbNrKAjfXq9l3cB8J9sISeXYanvYWYHI\nBWlCEcyTAgMBAAECggEAFQa5NhjyinGXzmgoY5Fc7N4hL1JNETHUNWKpsXQX7Tqg\nIIF3fYsxTxNYdSIjWH5peFzSiUHtqh/DHNVTfhay3hCXrW9OddjYqlhs8Gn/FVJz\nHGblcla5BvR/3y6mgeVDRQ2eML2CgTks2kQ0f3+zEOgegA8ZyMeIx76vTDR0E2Aq\nJa4y/DdByZ0pwYZfgb0KdIy625HxNXddXsgglboo7D59DM1stKzk302uSzDTT79E\nn6OtayvyxuLFc61YIsmrh3A/BsWsDWFp3KJZdxNPMrdp3FiYtVzcFJgQlQBuPY86\n1DUNwVCd1ufTV5UpocJnrqi2VQ+yrgFKBezlOI8rIQKBgQD6GIdo8Sc6oMeGshEP\nPeaIEmaYesD9exu/vzCQFy7+Ku0UbpsgxwrMi6E6ox8DaJB6bKScmUgtjox0PdB9\nvAnQyPE8WigDFi5cAXQXG0TYEli7IuyMuUPuJmlgSlcnS52xHvMlZlq1DeCwYoDh\ntT+g9FtXmDxgbAGBjj9Zk1KaiwKBgQDFRuCp27Dh5Q9GdsGCtzH08NopYi5T/nJm\noeZgSIaaUHedOLm1XHROTbUyxIUDnYjRt5ty4Jb93cX+IqnmxWddAX/dCti0U2YS\ndxo6Y66VxeJNrjbQjvVjOqHli1+0bnh/PXTj3TB2tW8FaFACQwDO/DchjqltEUJN\ncpkM1nm/GQKBgQC4Y+NaNQqGSEozfg/j2/Ce/GoWG9M0UFLqMY0df2pPTNjVCqNn\nLDlDC+OIdwIDolF7YaSQLNcxd3sIrRaNzVizTaPGqnX7qJvvi8bKznkYkZZICvy6\n2FFEQZ/JtaXCPBb8ouQD/A3+lUfG5Ck/wEE0a1T5JS3GrXsCyRzd7yek9wKBgFlY\n+pOzrm8BAWQWkRoUwol/NC+eCgF8sm+NT/u3nU7yttn8QQ/E6eA1DaYKn3u9s6PY\nFo127qvX775kELM2INRcw35nVTKGuyoNy1E6qG2pDA/GoYjf1n+0pHKEJzpe9jAa\ns4AoQ7TgA4Jddi8wDYOxc369UDrXoEHXbz4DPWyxAoGAFuM33r7M2a6xURdodJUy\nxbLwL2WTPErTJac5v/1KxllKoB7t85rfJxyz/Q6LRvrolelM690yP9UpfLSxp9bi\n2DFw/TIErqnQDTYj8dxvhYTQ6ARqmd+y19VzSgITsLvvjWoVPMGNLQLu4Lzu9JGE\nw/uuSkDU46SrY9Ys73oglYg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "drive-authentication@apple-volume-estimation.iam.gserviceaccount.com",
+  "client_id": "116045096055109390733",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/drive-authentication%40apple-volume-estimation.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
