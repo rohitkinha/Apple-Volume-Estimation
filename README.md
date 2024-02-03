@@ -28,5 +28,9 @@ Follow these steps to utilize the project:
 
 1. **Clone Repository:**
    ```bash
-   git clone https://github.com/yourusername/apple-volume-estimation.git
+   https://github.com/Aditya-Y-29/Apple-Volume-Estimation
    cd apple-volume-estimation
+
+2. **Activate the virtual environment:**
+   ```bash
+   source envCP303/bin/activate
