@@ -30,7 +30,3 @@ Follow these steps to utilize the project:
    ```bash
    https://github.com/Aditya-Y-29/Apple-Volume-Estimation
    cd apple-volume-estimation
-
-2. **Activate the virtual environment:**
-   ```bash
-   source envCP303/bin/activate
