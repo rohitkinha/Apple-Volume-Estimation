@@ -20,7 +20,17 @@ The chosen approach for apple volume estimation is inspired by the research pape
 
 The fruits are categorized into spherical, ellipsoid, and paraboloid shapes, and the methods extract eccentricity and shape-related parameters from the images. Appropriate analytical models are then applied for volume estimation. The proposed methods were tested in a laboratory setting and demonstrated reasonable accuracy.
 
+#### Results 
 
+- Mean Squared Error (MSE): 351.79
+- Root Mean Squared Error (RMSE): 18.76
+- Mean Percentage Error (MPE): 9.35%
+
+#### Plots
+
+![Plot Title](Assets/Approach_1_Actual_vs_Predicted_Volume.png)
+
+![Plot Title](Assets/Approach_2_Frequency_Plot_of_Absolute_Error.png)
 
 ## Usage
 
