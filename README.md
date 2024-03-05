@@ -32,6 +32,11 @@ The fruits are categorized into spherical, ellipsoid, and paraboloid shapes, and
 
 ![Plot Title](Assets/Approach_2_Frequency_Plot_of_Absolute_Error.png)
 
+### Apporach 2
+
+This approach encompasses employing the support vector machine regression (SVMR) modeling technique to develop a model for estimating the volume of fruit samples based on ellipse parameters. It also involves exploring various kernels and analyzing their performance to compare their effectiveness.
+
+
 ## Usage
 
 Follow these steps to utilize the project:
